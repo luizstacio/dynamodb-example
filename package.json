@@ -1,0 +1,7 @@
+{
+  "name": "dynamodb-exemplo",
+  "version": "1.0.0",
+  "description": "Exemplo de integração com dynamodb",
+  "author": "luizstacio",
+  "license": "ISC"
+}
